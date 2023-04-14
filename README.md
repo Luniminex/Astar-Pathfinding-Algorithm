@@ -23,3 +23,5 @@ You are also able to put blocks which are not traversable and work as obstacles 
 You'll need to either compile it yourself or use the premade Makefile.
 
 
+## Example
+![My Image](img/astar.png)
